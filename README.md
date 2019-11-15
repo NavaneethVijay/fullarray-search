@@ -4,7 +4,7 @@ Javascript utility that allows for searching strings in an array based on indexi
 
 # Installation
 
-`npm i fullarray-search`(https://www.npmjs.com/package/fullarray-search)`
+`npm i fullarray-search`(https://www.npmjs.com/package/fullarray-search)
 
 # Usage
 
