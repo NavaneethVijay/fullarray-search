@@ -63,3 +63,5 @@ class FullSearch {
     return [...new Set(this.results)]
   }
 }
+
+export { FullSearch }

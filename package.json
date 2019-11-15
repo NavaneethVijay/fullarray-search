@@ -1,15 +1,27 @@
 {
-  "name": "search",
+  "name": "fullarray-search",
   "version": "1.0.0",
-  "description": "search engine",
+  "description": "Javascript utility that allows for searching strings in an array based on indexing",
   "main": "index.js",
   "scripts": {
     "test": "start",
     "tsc": "tsc",
     "dev": "ts-node-dev --respawn --transpileOnly index.ts"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavaneethVijay/fullarray-search.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
   "author": "Navaneeth Vijay",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavaneethVijay/fullarray-search/issues"
+  },
+  "homepage": "https://github.com/NavaneethVijay/fullarray-search#readme",
   "dependencies": {
     "@types/node": "^12.12.7",
     "ts-node-dev": "^1.0.0-pre.44",
