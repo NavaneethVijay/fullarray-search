@@ -1,6 +1,6 @@
 {
   "name": "fullarray-search",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Javascript utility that allows for searching strings in an array based on indexing",
   "main": "index.js",
   "scripts": {
