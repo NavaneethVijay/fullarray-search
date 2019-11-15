@@ -1,6 +1,6 @@
 import { IndexedObject } from './types/IndexedObject'
 
-class FullSearch {
+export class FullSearch {
   /**
    * Input array of full search
    */
@@ -63,5 +63,3 @@ class FullSearch {
     return [...new Set(this.results)]
   }
 }
-
-export { FullSearch }
